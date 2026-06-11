@@ -17,6 +17,7 @@ Zaželeno je tudi, da podate:
 predloge za izboljšavo spletnega sistema Valuer.si,
 morebitne predloge novih funkcionalnosti,
 opažanja glede uporabniške izkušnje, preglednosti podatkov in analitičnih možnosti sistema.
+
 2. Razvojna naloga
 
 Naloga je izdelava preproste spletne aplikacije za upravljanje cenitev nepremičnin.
